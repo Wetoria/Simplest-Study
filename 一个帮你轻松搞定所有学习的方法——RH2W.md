@@ -5,6 +5,8 @@ Result、How、Why、What
 **但是争取做一个能把学习这件事，讲的最简单有效，能够轻松吸收和掌握的人。**
 
 > 本文编辑&首发于飞书：[更好的阅读体验](https://simplest-frontend.feishu.cn/docx/GqMhdX0Q3oKN6Ix5ZU3cYkRrnJe?from=from_copylink)
+>
+> 本文为初版，未来将会不断更新和调整。你可在上面这个链接里看到最新版。
 
 
 ---
