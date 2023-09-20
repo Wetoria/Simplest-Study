@@ -2,6 +2,6 @@
 
 A wiki for study, to ***Help You Cheating On Study***.
 
-This repo will only contains the summary.
+This repo will only contains the summary, You can see them in *Issues*.
 
 You can see all contents in [sstudy.wiki](https://sstudy.wiki).
