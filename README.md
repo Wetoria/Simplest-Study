@@ -6,3 +6,4 @@
 
 详细内容可以参考：[sstudy.wiki](https://sstudy.wiki)。
 
+[English](https://github.com/Wetoria/Simplest-Study/blob/main/README-EN.md)
