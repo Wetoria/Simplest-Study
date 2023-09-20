@@ -1,7 +1,8 @@
-# Simplest-Study
+# 《极简化学习》
 
-A wiki to ***Help You Cheating On Study***.
+一个帮你在学习上开挂的有关于学习 Wiki。
 
-This repo will only contains the summary.
+这个仓库将只会包含总结。
 
-You can see all contents in [sstudy.wiki](https://sstudy.wiki).
+详细内容可以参考：[sstudy.wiki](https://sstudy.wiki)。
+
